@@ -26,6 +26,6 @@ hsoutput_juvenile <- output_juvenile
 save(hsoutput_juvenile, file = 'data/output_HarbourSeal_juvenile.rda')
 
 # rm(list = ls())
-load("data-raw/output_dependentHS_290113.robj") 
-hsoutput_dependent <- output_dependent
-save(hsoutput_dependent, file = 'data/output_HarbourSeal_dependent.rda')
+# load("data-raw/output_dependentHS_290113.robj") 
+# hsoutput_dependent <- output_dependent
+# save(hsoutput_dependent, file = 'data/output_HarbourSeal_dependent.rda')
