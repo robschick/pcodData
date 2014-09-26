@@ -4,8 +4,8 @@
 #' @source Interim PCOD Report
 #' @format Data frames with columns
 #' \describe{
-#' \item{output_juvenile}{2 element list containing:}
+#' \item{hsoutput_juvenile}{2 element list containing:}
 #' }
 #' @examples
-#'   output_juvenile
-"output_juvenile"
+#'   hsoutput_juvenile
+"hsoutput_juvenile"
